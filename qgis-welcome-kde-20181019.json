@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "qgis",
+    "qgis-welcome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 447,
+      "ypos": 71,
+      "width": 111,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 612,
+      "ypos": 523,
+      "width": 107,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

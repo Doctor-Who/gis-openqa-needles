@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "qgis",
+    "qgis-welcome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 440,
+      "ypos": 98,
+      "width": 124,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 603,
+      "ypos": 554,
+      "width": 120,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
