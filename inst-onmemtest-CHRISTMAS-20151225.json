@@ -1,0 +1,16 @@
+{
+   "tags" : [
+      "CHRISTMAS",
+      "inst-onmemtest"
+   ],
+   "area" : [
+      {
+         "height" : 25,
+         "xpos" : 221,
+         "type" : "match",
+         "width" : 299,
+         "ypos" : 262
+      }
+   ],
+   "properties" : []
+}

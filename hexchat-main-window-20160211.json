@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "hexchat-main-window"
+  ],
+  "area": [
+    {
+      "xpos": 233,
+      "ypos": 128,
+      "width": 112,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

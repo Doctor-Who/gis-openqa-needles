@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "tracker-needle-launched",
+    "tracker-needle"
+  ],
+  "area": [
+    {
+      "xpos": 217,
+      "ypos": 128,
+      "width": 324,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

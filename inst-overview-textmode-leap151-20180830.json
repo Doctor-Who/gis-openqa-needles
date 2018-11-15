@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "ypos": 223,
+      "height": 63,
+      "type": "match",
+      "width": 97,
+      "xpos": 25
+    }
+  ]
+}

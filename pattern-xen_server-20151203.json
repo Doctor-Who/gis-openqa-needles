@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 22,
+      "ypos": 629,
+      "width": 204,
+      "match": 100,
+      "xpos": 94,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-xen_server"
+  ]
+}

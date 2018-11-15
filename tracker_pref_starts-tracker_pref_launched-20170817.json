@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "tracker_pref_launched",
+    "tracker-preferences"
+  ],
+  "area": [
+    {
+      "xpos": 260,
+      "ypos": 157,
+      "width": 275,
+      "height": 107,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

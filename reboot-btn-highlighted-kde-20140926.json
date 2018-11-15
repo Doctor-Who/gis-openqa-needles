@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 538,
+      "ypos": 397,
+      "width": 176,
+      "height": 40,
+      "match": 100,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "logoutdialog-reboot-highlighted",
+    "ENV-DESKTOP-kde"
+  ]
+}

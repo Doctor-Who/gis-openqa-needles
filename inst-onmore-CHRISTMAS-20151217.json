@@ -1,0 +1,16 @@
+{
+   "properties" : [],
+   "tags" : [
+      "CHRISTMAS",
+      "inst-onmore"
+   ],
+   "area" : [
+      {
+         "ypos" : 241,
+         "width" : 296,
+         "type" : "match",
+         "xpos" : 221,
+         "height" : 19
+      }
+   ]
+}

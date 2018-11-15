@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 592,
+      "xpos": 6,
+      "ypos": 29,
+      "type": "match",
+      "width": 794
+    }
+  ],
+  "tags": [
+    "test-yast2_users-1",
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

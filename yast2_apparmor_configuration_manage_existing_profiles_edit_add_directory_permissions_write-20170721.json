@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 539,
+      "ypos": 303,
+      "width": 129,
+      "height": 67,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_apparmor_dir_permissions_write"
+  ]
+}
