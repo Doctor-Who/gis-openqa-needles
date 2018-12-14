@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 96,
+      "width": 58,
+      "type": "match",
+      "ypos": 4,
+      "height": 17
+    },
+    {
+      "xpos": 456,
+      "width": 167,
+      "type": "match",
+      "ypos": 78,
+      "height": 27
+    },
+    {
+      "type": "match",
+      "xpos": 105,
+      "width": 875,
+      "height": 587,
+      "ypos": 114
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "qgis"
+  ]
+}
