@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 427,
+      "ypos": 89,
+      "width": 80,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 546,
+      "ypos": 91,
+      "width": 53,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 204,
+      "ypos": 124,
+      "width": 615,
+      "height": 621,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "grass"
+  ]
+}
